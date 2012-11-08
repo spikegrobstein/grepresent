@@ -23,6 +23,7 @@ module Grepresent
 
         opts.on("-h", "--help") do
           puts opts
+          exit
         end
       end.parse!
 
