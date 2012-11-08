@@ -1,6 +1,8 @@
 # Grepresent
 
-TODO: Write a gem description
+A rules-based text formatting utility for the commandline.
+
+Have you ever had text output that you wished you could control the coloring of? Use this tool to do just that.
 
 ## Installation
 
