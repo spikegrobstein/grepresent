@@ -7,10 +7,10 @@ Gem::Specification.new do |gem|
   gem.name          = "grepresent"
   gem.version       = Grepresent::VERSION
   gem.authors       = ["Spike Grobstein"]
-  gem.email         = ["spike@ticketevolution.com"]
-  gem.description   = %q{TODO: Write a gem description}
+  gem.email         = ["me@spike.cx"]
+  gem.description   = %q{Format text using patterns and formatting rules on the commandline}
   gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/spikegrobstein/grepresent"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
