@@ -1,5 +1,4 @@
 require 'optparse'
-require 'awesome_print'
 
 module Grepresent
   class CLI
