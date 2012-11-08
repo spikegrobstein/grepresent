@@ -9,7 +9,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ["Spike Grobstein"]
   gem.email         = ["me@spike.cx"]
   gem.description   = %q{Format text using patterns and formatting rules on the commandline}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.summary       = %q{Format text using patterns and formatting rules on the commandline}
   gem.homepage      = "https://github.com/spikegrobstein/grepresent"
 
   gem.files         = `git ls-files`.split($/)
