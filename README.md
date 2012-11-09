@@ -78,6 +78,7 @@ Grepresent is not quite ready for prime time. Following are some limitations.
  release.
  * Format files -- to define reusable formatter rules.
  * Support for textmate/vim/etc syntax rule files?
+ * Change name of executable to be less to type? `gpr`?
 
 ## Contributing
 
