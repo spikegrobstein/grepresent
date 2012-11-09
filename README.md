@@ -22,6 +22,10 @@ command:
 
 ## Usage
 
+Help and usage is available with the following:
+
+    grepresent --help
+
 The current version of `grepresent` reads data from STDIN and uses the `-f` switch
 to define a formatter. Basic usage is:
 
