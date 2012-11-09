@@ -76,6 +76,8 @@ Grepresent is not quite ready for prime time. Following are some limitations.
  * It ONLY reads from STDIN. At some point I'd like to have an option to take a file
  * The commandline usage is not set in stone and will probably change before the 1.0
  release.
+ * Format files -- to define reusable formatter rules.
+ * Support for textmate/vim/etc syntax rule files?
 
 ## Contributing
 
