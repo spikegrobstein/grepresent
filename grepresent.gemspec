@@ -18,5 +18,4 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
 
   gem.add_dependency 'term-ansicolor'
-  gem.add_dependency 'thor'
 end
